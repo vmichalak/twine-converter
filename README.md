@@ -1,4 +1,4 @@
-# twine-to-sqlite
+# twine-converter
 Convert Twine File to SQLite database
 
 How to install the module
